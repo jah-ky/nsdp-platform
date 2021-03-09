@@ -1,0 +1,7 @@
+analytics:
+  ga_prod: ''
+disclaimer:
+  phase: ''
+  message: ''
+goal_image_base: /assets/img/goals
+environment: production
